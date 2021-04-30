@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NamNam37
+- 👀 I’m interested in C#, Unity, Python and Machine learning
+- 🌱 I’m currently learning everything above
